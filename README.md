@@ -10,7 +10,7 @@ You can view the output [here]( https://nehalmuthu.github.io/Cluster-Analysis-fo
 - We do a group wise analysis of page hits which can be used to understand the needs of each segment.
 - Additionally we build a user network based on sessions and do community detection to identify similar users for targeted advertisements. 
 - Also a web-page network is built in order identify important pages in a website. Based on the transition probability matrix formed we find the probability of page transitions.
-
+- Finally, we have build a network plot for user and colored each node based on i) age category ii) location, so as to check for the characteristics of a group.
 
 I personally spent a lot of time understanding and interpreting the dataset. So I will boil it down for you guys.
 
