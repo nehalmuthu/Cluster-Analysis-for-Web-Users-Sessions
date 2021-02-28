@@ -1,0 +1,28 @@
+correspondance analysyis
+https://codefying.com/2018/12/21/introduction-to-correspondence-analysis/
+http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/113-ca-correspondence-analysis-in-r-essentials/#:~:text=Correspondence%20analysis%20is%20a%20geometric,their%20associations%20in%20the%20table.
+
+org paper
+file:///C:/Users/home/Downloads/Model_Based_Cluster_Analysis_for_Web_Use.pdf
+coreespondance analysis
+bar chart
+
+
+added
+https://www.researchgate.net/publication/283185312_Clustering_of_Web_User_Sessions_to_Maintain_Occurrence_of_Sequence_in_Navigation_Pattern
+https://www.researchgate.net/publication/241636021_A_community_detection_algorithm_for_Web_Usage_Mining_systems
+(nic)
+https://www.researchgate.net/publication/276500381_Discovery_and_Analysis_of_Usage_Patterns_for_Web_Personalization
+
+
+to add
+page page matrix(tpm)
+prob to move from one page to other
+
+
+
+
+
+
+shyam
+https://gist.github.com/rm-hull/bd60aed44024e9986e3c
