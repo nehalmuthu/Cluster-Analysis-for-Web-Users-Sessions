@@ -1,8 +1,8 @@
-#Cluster Analysis of Web User Sessions
+#Cluster Analysis of Web User Sessions#
 
 https://nehalmuthu.github.io/-Cluster-Analysis-for-Web-Users-Sessions/
 
-##Overview:
+##Overview:##
 Targeted Advertisement, product/offer campaigns, providing discounts to lure in customer, etc are some of the major application areas of e-commerce.
 All the above mentioned application requires segmentation of customers so as to ease the marketing of products.
 While there are traditionally many ways to group users/customers based on their personal characteristics, this projects aims to categorize them based on their navigational patterns (i.e. pattern in webpages visited by a user) observed from their user sessions. 
@@ -14,7 +14,7 @@ Also a web-page network is built in order identify important pages in a website.
 
 I personally spent a lot of time understanding and interpreting the dataset. So I will boil it down for you guys.
 
-##Dataset:
+##Dataset:##
 I have provided the dataset in the data folder.
 To learn more about the dataset go to https://archive.ics.uci.edu/ml/datasets/msnbc.com+anonymous+web+data
 Go to the above mentioned link and under data folder you will find msnbc990928.seq.gz.
