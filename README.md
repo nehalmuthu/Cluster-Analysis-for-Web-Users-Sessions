@@ -1,6 +1,6 @@
 # Cluster Analysis of Web User Sessions
 
-You can view the output [here]( https://nehalmuthu.github.io/-Cluster-Analysis-for-Web-Users-Sessions/)!
+You can view the output [here]( https://nehalmuthu.github.io/Cluster-Analysis-for-Web-Users-Sessions/ )!
 
 ## Overview:
 - Targeted Advertisement, product/offer campaigns, providing discounts to lure in customer, etc are some of the major application areas of e-commerce.
