@@ -15,7 +15,7 @@ You can view the output [here]( https://nehalmuthu.github.io/Cluster-Analysis-fo
 I personally spent a lot of time understanding and interpreting the dataset. So I will boil it down for you guys.
 
 ## Dataset:
-- I have provided the dataset in the data folder.
+- I have provided the dataset in the Data folder.
 - To learn more about the dataset go to (https://archive.ics.uci.edu/ml/datasets/msnbc.com+anonymous+web+data)
 - Go to the above mentioned link and under data folder you will find msnbc990928.seq.gz.
 - Download and extract. You will get .seq file, you can view it using notepad++.
@@ -42,14 +42,14 @@ I personally spent a lot of time understanding and interpreting the dataset. So 
 
 
 ## How to check and run the code: 
-- Just open the codes under code folder in google colab
+- Just open the codes under Code folder in google colab
 - It has all the required tutorial links and documentations.
 
 ## Output:
-You can check the final output in index.html page (wait for a couple of seconds to load)
+You can check the final output in index.html (wait for a couple of seconds to load)
 
 ## Reference:
-Relevant research papers are given under the paper folder.
+Relevant research papers are given under the Paper folder.
 Books:
 - Understanding User Web Interactions via Web Analytics
 - Web Analytics by Avinash Kaushik
