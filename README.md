@@ -33,19 +33,23 @@ I personally spent a lot of time understanding and interpreting the dataset. So 
 
 
 ## Pre-processing of data:
-Each row represents a user.
-So basically we are gonna cluster each row.
-For that we need a feature vector that represents each user/row.
-So we form a n*14 matrix, where n is the number of users, 14 is the no of pages in msnbc.com.
-Each user is represented by their page visits.
-Now we have the dataset ready, deploy all your algorithms using the data.
+- Each row represents a user.
+- So basically we are gonna cluster each row.
+- For that we need a feature vector that represents each user/row.
+- So we form a n*14 matrix, where n is the number of users, 14 is the no of pages in msnbc.com.
+- Each user is represented by their page visits.
+- Now we have the dataset ready, deploy all your algorithms using the data.
 
 
 ## How to check and run the code: 
-Just open the codes under code folder in google colab
-It has all the required tutorial links and documentations.
+- Just open the codes under code folder in google colab
+- It has all the required tutorial links and documentations.
 
 ## Output:
 You can check the final output in index.html page (wait for a couple of seconds to load)
 
-
+## Reference:
+Relevant research papers are given under the paper folder.
+Books:
+- Understanding User Web Interactions via Web Analytics
+- Web Analytics by Avinash Kaushik
