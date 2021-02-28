@@ -49,7 +49,7 @@ I personally spent a lot of time understanding and interpreting the dataset. So 
 You can check the final output in index.html (wait for a couple of seconds to load)
 
 ## Reference:
-Relevant research papers are given under the Paper folder.
+Relevant research papers are given under the Paper folder.\
 Books:
 - Understanding User Web Interactions via Web Analytics
 - Web Analytics by Avinash Kaushik
