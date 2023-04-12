@@ -1,6 +1,6 @@
 # Cluster Analysis of Web User Sessions
 
-You can view the output [here]( https://nehalmuthu.github.io/Cluster-Analysis-for-Web-Users-Sessions/ ){:target="_blank"}!
+You can view the output [here]( https://nehalmuthu.github.io/Cluster-Analysis-for-Web-Users-Sessions/ )!
 
 
 ## Overview:
