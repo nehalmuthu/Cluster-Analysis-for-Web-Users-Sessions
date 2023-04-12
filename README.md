@@ -2,6 +2,8 @@
 
 You can view the output [here]( https://nehalmuthu.github.io/Cluster-Analysis-for-Web-Users-Sessions/ )!
 
+<a href="https://nehalmuthu.github.io/Cluster-Analysis-for-Web-Users-Sessions/" target="_blank">here</a>!
+
 ## Overview:
 - Targeted Advertisement, product/offer campaigns, providing discounts to lure in customer, etc are some of the major application areas of e-commerce.
 - All the above mentioned application requires segmentation of customers so as to ease the marketing of products.
